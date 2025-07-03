@@ -33,6 +33,7 @@ HarmonyOS
 
 小米
 红米
+小米汽车
 Hyperos
 雷军
 
